@@ -1,6 +1,6 @@
 # gym-auto-registration
 
-A small module for automating interaction with the MotionVibe member portal. The module above features 3 truly useful functions:
+A small module for automating interaction with the MotionVibe member portal. The module above features 3 useful functions:
 1. quick_reg(c) -> Automated registration for nearest appt in favorites
 2. unreg_nearest(c) -> Manually triggered, automated unregistration from nearest appt in favorites
 3. reg_all(c) -> Manually triggered, automated registration for all available appts in favorites
