@@ -7,6 +7,8 @@ A small module for automating interaction with the MotionVibe member portal. The
 
 The c parameter in each case refers to an object containing the cookies from a previous log in session, which can be obtained by configuring and running the get_cookie_profile(user_id, u_name, p_word) method.
 
+The user will need to insert their gym's MotionVibe Login Portal URL and appropriate file paths by replacing <UPPER> throughout the file.
+
 Happy Automating!
 
 Built with python 3.8
